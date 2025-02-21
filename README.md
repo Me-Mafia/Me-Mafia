@@ -6,7 +6,9 @@
 -->
 - 📫 reach me at wanghq@shanghaitech.edu.cn
 
-[![Me-Mafia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Me-Mafia)](https://github.com/anuraghazra/github-readme-stats)
+[![Me-Mafia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Me-Mafia&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Me-Mafia&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Me-Mafia/Me-Mafia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
