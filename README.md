@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Me-Mafia
-- 👀 I’m interested in Computational Lithography
+- 👀 I’m interested in Computational Lithography / Synthesizer
 - 📫 reach me at wanghq@shanghaitech.edu.cn
 <!--
 - 🌱 I’m currently learning 
